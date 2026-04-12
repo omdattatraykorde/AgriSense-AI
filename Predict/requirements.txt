@@ -1,6 +1,0 @@
-flask
-pandas
-joblib
-xgboost
-scikit-learn
-gunicorn
